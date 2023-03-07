@@ -1,4 +1,4 @@
-# Emotion-Detection-project
+# Emotion_detection_with_CNN
 
 ![emotion_detection](https://github.com/Rohesen/Emotion_Detection-using-CNN/blob/main/Screenshot%20(32).png)
 ![emotion_detection](https://github.com/Rohesen/Emotion_Detection-using-CNN/blob/main/Screenshot%20(19).png)
